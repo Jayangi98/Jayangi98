@@ -51,13 +51,6 @@ I aim to become a highly skilled Software Engineer and pursue a Master’s degre
 
 ---
 
-## 📫 Contact Me
-
-📧 Email: jsugandika0124@gmail.com  
-🌍 Location: Sri Lanka  
-
----
-
 ## 🌱 Currently Learning
 
 - Advanced .NET Web API development  
